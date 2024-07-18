@@ -1,0 +1,5 @@
+export * from './schema/User.js'
+export * from './schema/Comment.js'
+export * from './schema/Admin_movies.js'
+export * from './schema/Booking.js'
+export * from './schema/Theatre.js'
